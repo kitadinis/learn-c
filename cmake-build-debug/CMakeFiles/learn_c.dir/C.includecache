@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/KitaD/CLionProjects/learn-c/codeSolutions.c
+index.h
+/cygdrive/c/Users/KitaD/CLionProjects/learn-c/index.h
+
+/cygdrive/c/Users/KitaD/CLionProjects/learn-c/index.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/cygdrive/c/Users/KitaD/CLionProjects/learn-c/main.c
+index.h
+/cygdrive/c/Users/KitaD/CLionProjects/learn-c/index.h
+

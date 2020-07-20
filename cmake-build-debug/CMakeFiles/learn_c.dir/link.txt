@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/learn_c.dir/main.c.o CMakeFiles/learn_c.dir/codeSolutions.c.o  -o learn_c.exe -Wl,--out-implib,liblearn_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
